@@ -9,4 +9,4 @@ La repository è organizzata in 4 cartelle:
 - `Case/`: file per la stampa 3D del case 
 - `Documentazione/`: presentazione di KHORD + relazione tecnica con descrizione dettagliata dell'intero progetto e appendici sull'organizzazione dei file hardware e software, sui i metodi principali contenuti e sulle loro funzioni. 
 
-A [questol link]([URL](https://www.typination.com/ploversteno)) è disponibie un dizionario da inglese a steno, utile per imparare gli accordi stenografici.
+A [questo link](https://www.typination.com/ploversteno) è disponibie un dizionario da inglese a steno, utile per imparare gli accordi stenografici.

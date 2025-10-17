@@ -5,6 +5,8 @@ Progettata da zero, include un hardware ottimizzato per la stenografia a due man
 
 La repository è organizzata in 4 cartelle:  
 - `Hardware/`: schema elettrico, layout PCB, modello 3D del case, file Gerber  
-- `Software/`: firmware in C (ESP-IDF) per gestione matrice, debouncing, protocollo GeminiPR, comunicazione USB con Plover
+- `Software/`: firmware in C (ESP-IDF) per gestione matrice, debouncing, protocollo GeminiPR, comunicazione USB con Plover 4.0.1
 - `Case/`: file per la stampa 3D del case 
 - `Documentazione/`: presentazione di KHORD + relazione tecnica con descrizione dettagliata dell'intero progetto e appendici sull'organizzazione dei file hardware e software, sui i metodi principali contenuti e sulle loro funzioni. 
+
+A [questol link]([URL](https://www.typination.com/ploversteno)) è disponibie un dizionario da inglese a steno, utile per imparare gli accordi stenografici.
